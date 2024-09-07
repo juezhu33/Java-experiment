@@ -20,7 +20,4 @@ public class CopyArray {
         d[d.length - 1] = -200;
         System.out.println(Arrays.toString(a));
     }
-
-
-    //testdwd
 }
