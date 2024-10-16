@@ -1,4 +1,4 @@
-package e05.test03;
+package experiment.e05.test03;
 
 abstract class Employee {
     public abstract double earnings();
