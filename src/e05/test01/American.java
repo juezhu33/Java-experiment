@@ -1,4 +1,4 @@
-package experiment.src.e05.test01;
+package e05.test01;
 
 public class American extends People {
     @Override

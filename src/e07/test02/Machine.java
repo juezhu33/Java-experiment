@@ -1,4 +1,4 @@
-package experiment.src.e07.test02;
+package e07.test02;
 
 public class Machine {
     public void checkBag(Goods goods) throws DangerException {

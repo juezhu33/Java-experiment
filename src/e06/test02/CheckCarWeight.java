@@ -1,4 +1,4 @@
-package experiment.src.e06.test02;
+package e06.test02;
 
 interface ComputerWeight {
     public double computerWeight();

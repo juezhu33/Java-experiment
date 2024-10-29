@@ -1,4 +1,4 @@
-package experiment.src.e07.test01;
+package e07.test01;
 
 class MoblieShop {
     InnerPurchaseMoney purchaseMoney1;

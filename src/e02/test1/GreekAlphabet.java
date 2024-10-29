@@ -1,4 +1,4 @@
-package experiment.e02.test1;
+package e02.test1;
 
 public class GreekAlphabet {
     public static void main(String[] args) {

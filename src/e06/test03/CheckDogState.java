@@ -1,4 +1,4 @@
-package experiment.src.e06.test03;
+package e06.test03;
 
 interface DogState{
     public void showState();

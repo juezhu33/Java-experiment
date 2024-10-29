@@ -1,4 +1,4 @@
-package experiment.e03.test02;
+package e03.test02;
 
 import java.util.Random;
 import java.util.Scanner;

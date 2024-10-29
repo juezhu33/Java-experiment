@@ -1,7 +1,7 @@
-package experiment.src.e04.test02;
+package e04.test02;
 
 public class Family {
-    TV homeTV;
+   TV homeTV;
     void buyTV (TV tv) {
         homeTV = tv;
     }

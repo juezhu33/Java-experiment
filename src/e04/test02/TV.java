@@ -1,4 +1,4 @@
-package experiment.src.e04.test02;
+package e04.test02;
 
 public class TV {
     int channel;  //电视频道

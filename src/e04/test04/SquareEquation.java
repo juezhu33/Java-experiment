@@ -1,4 +1,4 @@
-package experiment.src.e04.test04;
+package e04.test04;
 
 
 public class SquareEquation {

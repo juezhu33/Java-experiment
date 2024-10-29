@@ -1,4 +1,4 @@
-package experiment.src.e06.test01;
+package e06.test01;
 
 interface ComputerAverage {
     public double average(double x[]);

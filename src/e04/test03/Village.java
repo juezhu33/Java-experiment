@@ -1,4 +1,4 @@
-package experiment.src.e04.test03;
+package e04.test03;
 
 public class Village {
     static int waterAmount;

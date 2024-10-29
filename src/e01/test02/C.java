@@ -1,4 +1,4 @@
-package experiment.e01.test02;
+package e01.test02;
 
 public class C {
     void fC() {

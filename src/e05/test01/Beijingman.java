@@ -1,4 +1,4 @@
-package experiment.src.e05.test01;
+package e05.test01;
 
 public class Beijingman extends Chinese {
     public void averageHeight() {

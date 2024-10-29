@@ -1,4 +1,4 @@
-package experiment.src.e04.test02;
+package e04.test02;
 
 public class MainClass {
     public static void main(String[] args) {

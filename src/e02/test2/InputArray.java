@@ -1,4 +1,4 @@
-package experiment.e02.test2;
+package e02.test2;
 
 public class InputArray {
     public static void main(String[] args) {

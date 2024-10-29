@@ -1,4 +1,4 @@
-package experiment.src.e04.test03;
+package e04.test03;
 
 public class Land {
     public static void main(String[] args) {
